@@ -1,0 +1,28 @@
+.border-right {
+    border-right: 1px solid;
+}
+
+html, body {
+    height: 100%;
+    background-color: rgb(33 37 41);
+}
+
+.container-fluid {
+    min-height: 100%;
+}
+
+.img-thumbnail {
+    max-width: 90px;
+}
+
+.nav a {
+    color: rgb(255 255 255 / 50%);
+}
+
+.nav a:hover {
+    color: #fff;
+}
+
+.nav a.active {
+    color: #fff;
+}
